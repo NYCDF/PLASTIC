@@ -1,7 +1,7 @@
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 import TriangleScreen from './TriangleScreen';
-import VideoScreen from './VideoScreen';
+import VideoScreen from '.Screens/VideoScreen';
 
 
 export default class App extends React.Component {
