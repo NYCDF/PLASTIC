@@ -8,7 +8,7 @@ class VideoScreen extends React.Component{
   render(){
     return(
       <View style={styles.container}>
-     
+        <Text style={styles.text}>No? You're not alone.</Text> 
       </View>
     )
   }
@@ -22,6 +22,9 @@ const styles = StyleSheet.create({
     height: hp("100%"),
     width: wp("100%")
   },
+  text:{
+    fontSize: 16,
+  }
 })
 
 export default VideoScreen;

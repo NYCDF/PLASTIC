@@ -8,7 +8,7 @@ export default class TriangleScreen extends React.Component{
     return(
       <View style={styles.container}>
         <Text style={styles.text}> Do You Know What This Symbol Means? </Text>
-        <Image source={require("./images/arrows.png")} style={styles.img} />
+        <Image source={require("../images/arrows.png")} style={styles.img} />
         <TouchableOpacity onPress={()=>{}} style={styles.btn}>
           <Text style={styles.btn_text}> 
             Continue 
