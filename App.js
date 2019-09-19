@@ -1,12 +1,14 @@
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
-import {TriangleScreen} from './TriangleScreen';
+import TriangleScreen from './TriangleScreen';
+import VideoScreen from './VideoScreen';
+
 
 export default class App extends React.Component {
   render() {
-    return (
-      <View>
-       
+    return(
+      <View style={styles.container}>
+        <VideoScreen/>
       </View>
     );
   }
