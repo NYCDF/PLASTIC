@@ -12,6 +12,10 @@
 ##### Back End: Google Firebase for storage/AWS Amplify notifications/S3/Lambda (Currently firebase, partially done)
         
 ##### AI: IMB Watson for Image Recognition (model working partially, documentation to be added)
+
+##### Messaging: Twilio message and whatsapp API
+
+#### Webflow: CMS platform 
         
         
 
