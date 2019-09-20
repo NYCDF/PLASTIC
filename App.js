@@ -1,17 +1,13 @@
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
-import TriangleScreen from './Screens/TriangleScreen';
-import VideoScreen from './Screens/VideoScreen';
+import Landing from './Components/Landing';
 
-
-export default class App extends React.Component {
-  render() {
-    return(
-      <View style={styles.container}>
-        <VideoScreen/>
-      </View>
-    );
-  }
+export default function App() {
+  return (
+    <View style={styles.container}>
+      <Text>Open up App.js to start working on your app!</Text>
+    </View>
+  );
 }
 
 const styles = StyleSheet.create({

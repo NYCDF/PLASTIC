@@ -1,11 +1,14 @@
 {
   "expo": {
-    "name": "plastic",
-    "description": "This project is really great.",
-    "slug": "plastic",
+    "name": "NYCDF Reboot",
+    "slug": "PLASTIC",
     "privacy": "public",
     "sdkVersion": "34.0.0",
-    "platforms": ["ios", "android"],
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",

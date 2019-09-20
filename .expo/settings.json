@@ -1,7 +1,8 @@
 {
-  "hostType": "lan",
+  "hostType": "localhost",
   "lanType": "ip",
   "dev": true,
   "minify": false,
-  "urlRandomness": "tr-t3t"
+  "urlRandomness": "nx-fuu",
+  "https": false
 }
