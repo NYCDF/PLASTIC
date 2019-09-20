@@ -1,17 +1,17 @@
-# LAPAR (Learn About Plastic and Recycle) #
+# LAPAR (Learn About Plastic and Reduce Recycle) #
 
 
-### A cross platform and educational approach to plastic waste ###
+### A crowdsourced cross platform and educational approach to reduce and properly recycle plastic waste ###
 
 
 #### Technology Stack: ####
 ---------------------------
 
-##### Front End: React-Native for Android and iOS platforms 
+##### Front End: React-Native for Android and iOS platforms (Partially done, under new-native branch)
         
-##### Back End: Google Firebase for storage/AWS Amplify notifications/S3/Lambda
+##### Back End: Google Firebase for storage/AWS Amplify notifications/S3/Lambda (Currently firebase, partially done)
         
-##### AI: IMBWatson for image recognition
+##### AI: IMB Watson for Image Recognition (model working partially, documentation to be added)
         
         
 
