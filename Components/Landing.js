@@ -1,9 +1,9 @@
 import React from 'react';
 import { StyleSheet, Text, View , Container, Content  } from 'react-native';
 
-import Swiper from 'react-native-swiper';
+import {Swiper} from 'react-native-swiper';
 
-import CameraSub from './CameraSub'
+import {CameraSub} from './CameraSub'
 const styles = StyleSheet.create({
   slideDefault: {
     flex: 1,

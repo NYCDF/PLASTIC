@@ -1,6 +1,6 @@
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
-import Landing from './Components/Landing';
+import {Landing} from './Components/Landing';
 
 export default function App() {
   return (
