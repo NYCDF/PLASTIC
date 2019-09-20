@@ -5,10 +5,10 @@ import {
     StyleSheet
 } from "react-native";
 
-import { Camera, Permissions } from 'expo'
+import { Camera, Permissions } from 'expo';
 
-import { Container, Content, Header, Item, Icon, Input, Button } from 'native-base'
-import MaterialCommunityIcons from 'react-native-vector-icons/MaterialCommunityIcons'
+import { Container, Content, Header, Item, Icon, Input, Button } from 'react-native';
+import MaterialCommunityIcons from 'react-native-vector-icons/MaterialCommunityIcons';
 
 class CameraSub extends Component {
 

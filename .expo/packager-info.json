@@ -1,9 +1,9 @@
 {
   "devToolsPort": 19002,
-  "expoServerPort": null,
-  "packagerPort": null,
-  "packagerPid": null,
-  "expoServerNgrokUrl": null,
-  "packagerNgrokUrl": null,
-  "ngrokPid": null
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 95466,
+  "expoServerNgrokUrl": "https://nx-fuu.dhruv857.plastic.exp.direct",
+  "packagerNgrokUrl": "https://packager.nx-fuu.dhruv857.plastic.exp.direct",
+  "ngrokPid": 95477
 }
