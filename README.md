@@ -13,8 +13,8 @@
         
 ##### AI: IMB Watson for Image Recognition (model working partially, documentation to be added)
 
-##### Messaging: Twilio message and whatsapp API
-
+##### Messaging: Twilio message and whatsapp API . (numbers are working, api not connected due to last minute model completion)
+ 
 #### Webflow: CMS platform 
         
         
